@@ -10,16 +10,16 @@ The Role of Machine Learning in Financial Security - Machine learning use smart 
 To sum up, machine learning can help us stop credit card fraud. It is a big change in the way we fight against fraudsters who steal money. Machine learning can look at data, find what is normal and what is not, and catch bad people fast. It can also learn from new ways of stealing and stop them. As computers get better, working together with humans and machine learning will make our money safer.
 
 # Approach 1:
-Helps with the comparison among the different ML Models and their evaluation performance
-Dataset Link : https://drive.google.com/file/d/1CUT3uQzV3IgCS15NkgwrhoSJmpLmaJua/view?usp=sharing
-Process : cdd dataset -> split the data into test and train -> Apply Various Models -> Evaluation Metric -> Taking User Input and predict the fraud or not fraud
-Model Used : Random Forest, Logistic Regression, Support Vector Machine, K-Nearest Neighbors
+1. Helps with the comparison among the different ML Models and their evaluation performance
+2. Dataset Link : https://drive.google.com/file/d/1CUT3uQzV3IgCS15NkgwrhoSJmpLmaJua/view?usp=sharing
+3. Process : cdd dataset -> split the data into test and train -> Apply Various Models -> Evaluation Metric -> Taking User Input and predict the fraud or not fraud
+4. Model Used : Random Forest, Logistic Regression, Support Vector Machine, K-Nearest Neighbors
 
 # Approach 2:
-Helps to tell the importance of pre processing of the dataset and provide the related evaluation
-Dataset Link : https://drive.google.com/file/d/1iPJYeR4aIkKXDMp-Tsj2CaAElKjMiXvi/view?usp=sharing
-Process : credit card dataset -> data preprocessing -> data analysis and sampling -> train test split -> logistic regression model -> evaluation
-Model Used : Logistic Regression
+1. Helps to tell the importance of pre processing of the dataset and provide the related evaluation
+2. Dataset Link : https://drive.google.com/file/d/1iPJYeR4aIkKXDMp-Tsj2CaAElKjMiXvi/view?usp=sharing
+3. Process : credit card dataset -> data preprocessing -> data analysis and sampling -> train test split -> logistic regression model -> evaluation
+4. Model Used : Logistic Regression
 
 # Technology Used:
 1. Python
