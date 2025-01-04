@@ -16,7 +16,7 @@ To sum up, machine learning can help us stop credit card fraud. It is a big chan
 4. Model Used : Random Forest, Logistic Regression, Support Vector Machine, K-Nearest Neighbors
 
 # Approach 2:
-1. Helps to tell the importance of pre processing of the dataset and provide the related evaluation
+1. Helps to tell the importance of data preprocessing and sampling and provide the related evaluation based on that
 2. Dataset Link : https://drive.google.com/file/d/1iPJYeR4aIkKXDMp-Tsj2CaAElKjMiXvi/view?usp=sharing
 3. Process : credit card dataset -> data preprocessing -> data analysis and sampling -> train test split -> logistic regression model -> evaluation
 4. Model Used : Logistic Regression
