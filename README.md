@@ -27,3 +27,6 @@ To sum up, machine learning can help us stop credit card fraud. It is a big chan
 3. Pandas
 4. Numpy
 5. Sklearn
+
+# Overview:
+![Screenshot 2025-01-09 201234](https://github.com/user-attachments/assets/ce7d302e-402f-40fc-b40c-2c8e257c43bf)
