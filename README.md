@@ -11,13 +11,13 @@ To sum up, machine learning can help us stop credit card fraud. It is a big chan
 
 # Approach 1:
 1. Helps with the comparison among the different ML Models and their evaluation performance
-2. Dataset Link : https://drive.google.com/file/d/1CUT3uQzV3IgCS15NkgwrhoSJmpLmaJua/view?usp=sharing
+2. Dataset Link : [Dataset Link](https://drive.google.com/file/d/1Z-gKsOPJ3CVAHk_brif-AB3fwOnMK__4/view?usp=sharing)
 3. Process : cdd dataset -> split the data into test and train -> Apply Various Models -> Evaluation Metric -> Taking User Input and predict the fraud or not fraud
 4. Model Used : Random Forest, Logistic Regression, Support Vector Machine, K-Nearest Neighbors
 
 # Approach 2:
 1. Helps to tell the importance of data preprocessing and sampling and provide the related evaluation based on that
-2. Dataset Link : https://drive.google.com/file/d/1iPJYeR4aIkKXDMp-Tsj2CaAElKjMiXvi/view?usp=sharing
+2. Dataset Link : [Dataset Link](https://drive.google.com/file/d/1kWqypSTFjvSZ7CbPwu0zyhwgV9S1jEq6/view?usp=sharing)
 3. Process : credit card dataset -> data preprocessing -> data analysis and sampling -> train test split -> logistic regression model -> evaluation
 4. Model Used : Logistic Regression
 
